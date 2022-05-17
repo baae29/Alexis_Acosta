@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Alexis_Acosta</string>
+
+    <string name="text_view_nombre_text">Nombre:</string>
+    <string name="text_view_apellido_text">Apellido:</string>
+    <string name="text_view_base_text">Base:</string>
+    <string name="text_view_exponente_text">Exponente:</string>
+    <string name="text_view_factorial_text">Factorial:</string>
+    <string name="text_view_potencia_text">Potencia:</string>
+
+    <string name="edittext_hint_nombre">Nombre</string>
+    <string name="edittext_hint_apellido">Apellido:</string>
+    <string name="edittext_hint_base">Base:</string>
+    <string name="edittext_hint_exponente">Exponente:</string>
+    <string name="edittext_hint_factorial">Factorial:</string>
+    <string name="edittext_hint_potencia">Potencia:</string>
+
+    <string name="button_text_siguiente">Siguiente</string>
+    <string name="button_text_resultado">Mostrar Resultado</string>
+
 </resources>
